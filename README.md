@@ -35,7 +35,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./screenshot_303.png)
+![Example screenshot](./Screenshot_303.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
